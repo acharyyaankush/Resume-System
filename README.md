@@ -18,13 +18,16 @@ Resume-Ecosystem is a fully functional ecosystem that connects multiple educatio
 
 
 - Dashboard Overview
-(/public/ss2.png)
+<img width="1366" height="698" alt="ss2" src="https://github.com/user-attachments/assets/ea4384eb-606b-4850-9411-75d8f8d51699" />
+
 
 - Resume Builder
-(/public/ss4.png)
+<img width="1366" height="691" alt="ss4" src="https://github.com/user-attachments/assets/90b40ff3-d1dc-4901-8669-c191ea957dc6" />
 
--Platform integrations
-(/public/ss3.png)
+
+- Platform integrations
+<img width="1366" height="689" alt="ss3" src="https://github.com/user-attachments/assets/4363e3c7-020a-4dc4-b3d9-0db3fc77a5b8" />
+
 
 ## Tech Stack
 
