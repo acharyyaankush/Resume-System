@@ -14,7 +14,8 @@ Resume-Ecosystem is a fully functional ecosystem that connects multiple educatio
 ## Screenshots
 
 - Login Overview
-(/public/ss1.png)
+<img width="1366" height="691" alt="ss1" src="https://github.com/user-attachments/assets/cf61f230-41ef-46a3-886a-575a6b5ce611" />
+
 
 - Dashboard Overview
 (/public/ss2.png)
